@@ -7,7 +7,5 @@ variable "vpc_tag" {
 }
 
 variable "create_attach_igw" {
-  type = bool
-  default = false
   
 }
